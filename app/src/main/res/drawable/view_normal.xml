@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="@color/white" />
+
+    <padding
+        android:left="@dimen/view_padding_default"
+        android:right="@dimen/view_padding_default" />
+
+    <size android:height="@dimen/view_heigh_default" />
+
+</shape>

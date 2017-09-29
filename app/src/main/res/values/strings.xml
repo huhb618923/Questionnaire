@@ -1,3 +1,101 @@
 <resources>
-    <string name="app_name">Questionnaire</string>
+    <string name="app_name">大粒贷</string>
+
+    <string name="tab_home_title">首页</string>
+    <string name="tab_repay_title">还款</string>
+    <string name="tab_mine_title">我的</string>
+
+    <string name="header_hint">下拉刷新</string>
+    <string name="footer_hint">加载更多</string>
+    <string name="header_last_time">上次更新时间：</string>
+
+    <string name="borrow_limit">我要借(元)</string>
+    <string name="borrow_days">借款天数(天)</string>
+    <string name="borrow_instan">立即借款</string>
+    <string name="apply_conditions">申请条件</string>
+    <string name="apply_conditions_text">1.年龄介于22（不含）~55（含）周岁"\n"2.本人手机实名制</string>
+    <string name="apply_process">申请流程</string>
+    <string name="first_step_text">填写资料</string>
+    <string name="first_step_detail_text">身份信息验证、电商信息验证、实名手机号验证</string>
+    <string name="second_step_text">运营商授权</string>
+    <string name="third_step_text">绑定银行卡</string>
+    <string name="forth_step_text">签约</string>
+
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="account_login">账号登录</string>
+    <string name="msg_login">短信快捷登录</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="msg_hint">请输入手机短信验证码</string>
+    <string name="pwd_hint">请输入6-16位密码</string>
+    <string name="forget_pwd">忘记密码</string>
+    <string name="send_code">获取验证码</string>
+    <string name="resend_code">重新发送</string>
+
+    <string name="register_protocol">注册代表你同意大粒贷注册协议</string>
+    <string name="register_remain">防被骗提示</string>
+    <string name="register_remian_content">您在申请借款过程中，大粒贷官方及工作人员不会通过电话、短信、邮件等任何方式，以担保费、咨询费等任何名义向您收取费用。请您务必知晓，谨防被骗。</string>
+    <string name="register_pwd">输入密码</string>
+    <string name="register_pwd_hint">请输入6-16位密码</string>
+    <string name="register_pwd_confirm">确认密码</string>
+    <string name="register_pwd_confirm_hint">再次输入</string>
+    <string name="register_complete">完成注册</string>
+
+    <string name="find_pwd">用户找回密码</string>
+    <string name="reset_pwd">重置密码</string>
+    <string name="new_pwd">请输入6-16位新密码</string>
+
+    <string name="data_title">资料验证</string>
+    <string name="data_basic">基本信息</string>
+    <string name="data_work">工作及生活</string>
+    <string name="data_social">社会关系信息</string>
+    <string name="data_submited">已提交</string>
+    <string name="data_dis_submit">未提交</string>
+    <string name="data_protocol">已阅读并同意《个人信息采集授权声明》</string>
+
+    <string name="data_name">姓名</string>
+    <string name="data_name_hint">请输入您的真实姓名</string>
+    <string name="data_id">身份证</string>
+    <string name="data_id_hint">请输入您的身份证号码</string>
+    <string name="data_city">居住城市</string>
+    <string name="data_address">详细地址</string>
+    <string name="data_address_hint">请输入所在街道、小区、门牌号</string>
+
+    <string name="data_industry">从事行业</string>
+    <string name="data_industry_hint">如：金融业</string>
+    <string name="data_company_name">单位/公司名称</string>
+    <string name="data_company_name_hint">请输入您的单位或公司名称</string>
+    <string name="data_company_addr">单位/公司地址</string>
+    <string name="data_company_addr_hint">如：北京市朝阳区三元桥时间国际大厦A座15层</string>
+    <string name="data_company_phone">单位/公司电话</string>
+    <string name="data_company_phone_hint">如：010-88829000</string>
+    <string name="data_email">常用电子邮箱（选填）</string>
+    <string name="data_email_hint">如qq、163等邮箱</string>
+    <string name="data_qq">QQ号码（选填）</string>
+    <string name="data_qq_hint">请填写您的QQ号</string>
+    
+    <string name="data_family_name">直系亲属姓名</string>
+    <string name="data_family_name_hint">父母、子女、兄妹任选其一</string>
+    <string name="data_family_phone">亲属手机</string>
+    <string name="data_family_phone_hint">请填写真实号码否则被拒绝</string>
+    <string name="data_family_relation">亲属关系</string>
+    <string name="data_family_relation_hint">请选择亲属关系</string>
+    <string name="data_contacts_name">联系人姓名</string>
+    <string name="data_contacts_name_hint">同事、同学、朋友任选其一</string>
+    <string name="data_contacts_phone">联系人手机</string>
+    <string name="data_contacts_relation">联系人关系</string>
+    <string name="data_contacts_relation_hint">请选择社会关系</string>
+
+    <string name="authorize_title">授权信息</string>
+
+    <string name="back">返回</string>
+    <string name="next">下一步</string>
+    <string name="ignore">忽略</string>
+    <string name="update">升级</string>
+    <string name="complete">完成</string>
+    
+    
+    <string name="progress_default_msg">正在加载数据...</string>
+    <string name="send_verify_code_success">验证码已发送成功</string>
+
 </resources>

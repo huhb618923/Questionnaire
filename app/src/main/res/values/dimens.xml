@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="WheelItemTextSize">16sp</dimen>
+    <dimen name="WheelItemSpace">12dp</dimen>
+    <dimen name="WheelIndicatorSize">2dp</dimen>
+    <dimen name="WheelMargins">8dp</dimen>
+
+    <item name="img_alpha" format="float" type="dimen">1.0</item>
+
+    <dimen name="view_heigh_default">75dp</dimen>
+    <dimen name="view_heigh_pressed_default">65dp</dimen>
+    <dimen name="view_padding_default">18dp</dimen>
+    <dimen name="view_left_text_size">16sp</dimen>
+    <dimen name="view_right_text_size">13sp</dimen>
+    <dimen name="view_right_drawable_padding">6dp</dimen>
+
+    <dimen name="user_data_margintop">20dp</dimen>
+    <dimen name="user_data_padding">12dp</dimen>
+    <dimen name="user_data_text_size">16sp</dimen>
+    <dimen name="user_data_edit_size">15sp</dimen>
+
+    <dimen name="btn_bottom_textSize">19sp</dimen>
+
+</resources>

@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FF5537</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="c_66">#666666</color>
+    <color name="themeColor">#f86025</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="btn_disable_bg">#E4E4E4</color>
+    <color name="text_view_color">#181818</color>
+    <color name="edit_text_color">#0E0E0E</color>
+    <color name="btn_bottom_text_color">#FFFFFF</color>
+    <color name="dialog_text_green">#00CE70</color>
+
+    <color name="packge_bg">#F4F4F4</color>
+
+    <color name="ruler_line_gray">#B8B8B8</color>
+    <color name="ruler_text_gray">#C9C9C9</color>
+    <color name="ruler_text_black">#636262</color>
+    <color name="ruler_text_red">#FF5537</color>
+
+    <color name="borrow_days_text_color">#FF532A</color>
+    <color name="apply_hint_text_color">#7E7E7E</color>
+
+    <color name="login_btn_bg_color">#FF5A39</color>
+    <color name="send_code_enable_color">#FF3911</color>
+    <color name="send_code_disable_color">#C9C9C9</color>
+
+    <color name="register_protocol_red_color">#FF5C3C</color>
+    <color name="register_protocol_gray_color">#747474</color>
+    <color name="register_remain_color">#A6A6A6</color>
+    <color name="register_remain_content_color">#9B9B9B</color>
+
+    <color name="user_data_red_color">#FF532A</color>
+    <color name="user_data_gray_color">#C3C3C3</color>
+
 </resources>
+
+
