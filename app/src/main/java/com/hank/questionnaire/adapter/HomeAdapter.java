@@ -46,7 +46,7 @@ public class HomeAdapter extends RecyclerView.Adapter {
 
     @Override
     public int getItemCount() {
-        return 0;
+        return 1;
     }
 
     private void bindContentView(ContentViewHolder contentViewHolder) {
